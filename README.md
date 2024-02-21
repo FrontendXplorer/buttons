@@ -1,5 +1,4 @@
-# buttons
-🔘💥 Stylish Buttons Collection crafted using HTML & CSS
+# 🔘💥 Stylish Buttons Collection crafted using HTML & CSS
 
 Welcome to the "Buttons" repository! This project showcases a collection of stylish and versatile buttons created using HTML and CSS. 
 Whether you're looking to enhance the user experience or add visual appeal to your web projects, this repository offers a variety of button designs suitable for various purposes.
